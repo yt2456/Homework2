@@ -1,0 +1,1 @@
+Compile and execute MazeShell for the program.
